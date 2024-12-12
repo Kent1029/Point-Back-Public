@@ -72,7 +72,8 @@ README.md
 
 ## 貢獻 (Contributing)
 
-歡迎任何形式的貢獻！請先 fork 此專案，並建立一個新的分支來進行修改。完成後，請提交一個 pull request。
+歡迎任何形式的貢獻！請先 fork 此專案，並建立一個新的分支來進行修改。<br>
+完成後，請提交一個 pull request。
 
 Contributions are welcome! Please fork this repository and create a new branch for your changes. Once completed, submit a pull request.
 
